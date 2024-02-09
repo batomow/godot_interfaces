@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="Interface" load_steps=2 format=3 uid="uid://cja37o0bj0rt3"]
+
+[ext_resource type="Script" path="res://Interface.gd" id="1_owkhq"]
+
+[resource]
+script = ExtResource("1_owkhq")
+name = "Damagable"
+methods = Array[String](["take_damage"])
